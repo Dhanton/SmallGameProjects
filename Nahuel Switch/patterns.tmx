@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32">
+  <image source="tileset.png" width="320" height="320"/>
+ </tileset>
+ <layer name="Initial Pos" width="100" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztl+EOgCAIhPX9X7q/raXAIewivs21uYtAUGyMJoMJ6JFxwsbKHuKrJ8aVDp1/flvjk6SPxBrTl5FqV9JnsPKjYl7m7amJjy32CnnxnMtoL7Dajcbqr2WPevqHlah1Y69tVv86H1x0Prj4a//Q2EDnPbDVSd+v8un/D1mfSfSeZ0LqB296ZJyw4T3fLTWneS+if+zmK9chK9q1vgB85AEQ
+  </data>
+ </layer>
+ <layer name="Last Pos" width="100" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztl0sOgDAIROv9L+3eFJ1+oA/iS9xhCzNAtDUeV9Adz4fASF69WFItK1SpoxK9HrN67603R+KrodRI1WA1l8r76gQZdfP2X903Srx6XrY+9sjdej+LJtHMeqDqSfKDNC+75zejHxakXGb5/YjFe45oO4JGdJ5EDQic6heaH1EaeH2PK2d8/U/suJO6b7JB0/AGlzcAyQ==
+  </data>
+ </layer>
+</map>
